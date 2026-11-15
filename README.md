@@ -1,4 +1,4 @@
-This project was developed as part of the [Advanced Earth Observation Techniques] (https://caliweb.vub.be/?page=course-offer&id=012698&anchor=1&target=pr&year=2627&language=en&output=html) course at Vrije Universiteit Brussel (VUB). The Python code builds on the concepts and coding techniques introduced during the course, which were further adapted, extended, and modified to meet the specific objectives of the project.
+This project was developed as part of the [Advanced Earth Observation Techniques](https://caliweb.vub.be/?page=course-offer&id=012698&anchor=1&target=pr&year=2627&language=en&output=html) course at Vrije Universiteit Brussel (VUB). The Python code builds on the concepts and coding techniques introduced during the course, which were further adapted, extended, and modified to meet the specific objectives of the project.
 
 The project explores image analysis and sub-pixel land-cover classification using satellite and airborne remote sensing data.
 
